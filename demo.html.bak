@@ -1,0 +1,154 @@
+<!doctype html>
+<html lang="en">
+ <head>
+  <meta charset="UTF-8">
+  <meta name="Generator" content="EditPlus®">
+  <meta name="Author" content="">
+  <meta name="Keywords" content="">
+  <meta name="Description" content="">
+  <title>demo</title>
+ <link href="https://cdn.bootcss.com/bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet">
+ <link href="mian.css" rel="stylesheet">
+ </head>
+ <body>
+  <div class="navbar navbar-default">
+  <div class="container">
+	<div class="navbar-header">
+		<a href="demo.html" class="navbar-brand"></a>
+		<ul class="nav navbar-nav">
+			<li class="active"><a href="demo.html">首页</a></li>
+			<li><a href="#">国内</a></li>
+			<li><a href="#">国际</a></li>
+			<li><a href="#">社会</a></li>
+			<li><a href="#">军事</a></li>
+			<li><a href="#">公益</a></li>
+		</ul>
+		<ul class="nav navbar-nav navbar-right">
+			<li><a href="login.html">登录</a></li>
+			<li><a href="register.html">注册</a></li>
+		</ul>
+	</div>
+	</div>
+  </div>
+  <div class="container">
+  <div class="row">
+	<div class="col-sm-2">
+		<div class="list-group size-bar">
+			<a href="#" class="list-group-item active">综合</a>
+			<a href="#" class="list-group-item">电影</a>
+			<a href="#" class="list-group-item">明星</a>
+			<a href="#" class="list-group-item">娱乐</a>
+			<a href="#" class="list-group-item">科技</a>
+			<a href="#" class="list-group-item">农业</a>
+			<a href="#" class="list-group-item">时尚</a>
+			<a href="#" class="list-group-item">体育</a>
+			<a href="#" class="list-group-item">汽车</a>
+			<a href="#" class="list-group-item">电竞</a>
+		</div>
+	</div>
+	<div class="col-sm-7">
+		<div class="news-list">
+			<div class="news-list-item clearfix">
+				<div class="col-xs-4">
+					<img src="restaurant.jpg"/>
+				</div>
+				<div class="col-xs-8">
+					<div class="title"><a href="newsone.html">我想能想到最浪漫的事，就是和你吃饭。盘点世界各地最浪漫的餐厅。</a>
+					<div class="infor">
+						<span class="avatar"><img src="guide.png"></span>
+						<span>作者:陈宇辉</span>~
+						<span>点击量:155K</span>~
+						<span>发布于:3分钟前</span>
+					</div>
+					</div>
+				</div>
+			</div>
+			<br/>
+			<div class="news-list-item clearfix">
+				<div class="col-xs-4">
+					<img src="default.jpg"/>
+				</div>
+				<div class="col-xs-8">
+					<div class="title"><a href="newsone.html">会当凌绝顶，一览纵山小。一位伊斯兰人登上安徽黄山后，感叹道:此处真是山好水好，人也好呀！</a>
+					<div class="infor">
+						<span class="avatar"><img src="guide.png"></span>
+						<span>作者:陈宇辉</span>~
+						<span>点击量:155K</span>~
+						<span>发布于:3分钟前</span>
+					</div>
+					</div>
+				</div>
+			</div>
+			<br/>
+			<div class="news-list-item clearfix">
+				<div class="col-xs-4">
+					<img src="video_bg.jpg"/>
+				</div>
+				<div class="col-xs-8">
+					<div class="title"><a href="#">伦敦大桥建成，目前已完成通车实验，即将投入使用。</a>
+					<div class="infor">
+						<span class="avatar"><img src="guide.png"></span>
+						<span>作者:陈宇辉</span>~
+						<span>点击量:155K</span>~
+						<span>发布于:6分钟前</span>
+					</div>
+					</div>
+				</div>
+			</div>
+			<br/>
+			<div class="news-list-item clearfix">
+				<div class="col-xs-4">
+					<img src="rick.jpg"/>
+				</div>
+				<div class="col-xs-8">
+					<div class="title"><a href="#">史上最豪华的游艇派对等你来参加，还想什么，赶快报名吧！手快有，手慢无了喂！</a>
+					<div class="infor">
+						<span class="avatar"><img src="guide.png"></span>
+						<span>作者:陈宇辉</span>~
+						<span>点击量:155K</span>~
+						<span>发布于:9分钟前</span>
+					</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	<div class="col-sm-3">
+		<div class="search-bar">
+			<input type="search" class="form-control" placeholder="搜一下">
+		</div>
+		<div class="side-bar-card flag clearfix">
+			<div class="col-xs-5"><img src="por.jpg"></div>
+			<div class="col-xs-7">
+				<div class="text-lg">有害信息举报专区</div>
+				<div>举报电话:12358</div>
+			</div>
+		</div>
+		<div class="side-bar-card">
+			<div class="title"><span>24小时热闻</span></div>
+			<div class="news-index">~~<a href="#">All these things shall love do unto you that you may know the secrets of your heart, and in that knowledge become a fragment of life's heart. </a> </div>
+			<div class="news-infor">5.5万次点击,132条评论</div>
+		</div>
+		<div class="side-bar-card">
+			<div class="news-index">~~<a href="#">All these things shall love do unto you that you may knpeace and love's pleasure.</a> </div>
+			<div class="news-infor">5.5万次点击,132条评论</div>
+		</div>
+		<div class="side-bar-card">
+			<div class="news-index">~~<a href="#">All these things shall love do unto you that you may know the secrets of your heart, and in that knowledge become and love's pleasure.</a> </div>
+			<div class="news-infor">5.5万次点击,132条评论</div>
+		</div>
+		<div class="side-bar-card">
+			<div class="news-index">~~<a href="#">All these things shall love do unto  of life's heart. But if, in your fear, you would seek only love's peace and love's pleasure.</a> </div>
+			<div class="news-infor">5.5万次点击,132条评论</div>
+		</div>
+	</div>
+  </div>
+  </div>
+  <div class="nav_foot">
+		<div class="foot_bg">
+			<span>广东XXX文化传媒有限公司&nbsp|&nbsp地址:&nbsp广东省广州市XXX区XX大厦XX号&nbsp|&nbsp举报电话&客服热线:10086</span>
+			<span>版权解释均归广东XXX文化传媒有限公司所有</span>
+		</div>
+	</div>
+ </body>
+</html>

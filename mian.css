@@ -1,0 +1,116 @@
+img{
+	display:block;
+	max-width:100%;
+}
+img,.list-group-item{
+	border-radius:3px;
+}
+.container .navbar-right{
+	position:absolute;
+	margin-left:878px;
+}
+.container .navbar-brand{
+	background-image:url("1.jpg");
+	width:50px;
+	background-size:cover;
+	background-position:center center;
+	background-repeat:no-repeat;
+}
+.size-bar .list-group-item{
+	border:0;
+	margin-bottom:5px;
+}
+.size-bar a:hover{
+	background:rgba(0,0,0,0.2);
+}
+.size-bar .active{
+	background:red;
+}
+.size-bar .active:hover{
+	background:red;
+}
+.news-list-item .title a{
+	font-size:20px;
+	font-weight:bold;
+	line-height:1.5;
+	color:#000;
+}
+.news-list-item .infor{
+	margin-top:5px;
+}
+.news-list-item .infor span{
+	font-size:14px;
+	color:#888;
+	
+}
+.avatar{
+	display:inline-block;
+}
+.avatar img{
+	display:inline-block;
+	width:15px;
+	height:15px;
+}
+.side-bar-card{
+	background:rgba(0,0,0,0.08);
+	margin-top:10px;
+	padding:10px;
+}
+ .flag{
+	padding-top:20px;
+	padding-bottom:20px;
+}
+.side-bar-card .text-lg{
+	font-size:20px;
+	font-weight:bold;
+	color:red;
+	
+}
+.side-bar-card .news-index a{
+	color:rgba(0,0,0,0.8);
+}
+.side-bar-card .news-index a:hover{
+	text-decoration:none;
+}
+.side-bar-card .news-infor{
+	color:#999;
+}
+.recommand-list{
+	background:#ccc;
+	margin-top:20px;
+	margin-bottom:20px;
+}
+.point .title{
+	padding:10px 10px;
+}
+.recommand-list .recommand-index{
+	padding:5px;
+}
+.recommand-list .recommand-index a{
+	color:rgba(0,0,0,0.8);
+}
+.recommand-list .recommand-index a:hover{
+	text-decoration:none;
+}
+.container-small{
+	max-width:500px;
+	
+}
+.btn-primary,.btn-primary:hover{
+	background:red;
+	border-color:red;
+}
+.tips{
+	color:red;
+}
+.passs{
+	color:green;
+}
+.foot_bg {
+text-align:center;
+margin-top:5px;
+}
+.foot_bg  span{
+position:relative;
+top:18px;
+}
